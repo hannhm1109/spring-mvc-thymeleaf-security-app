@@ -31,6 +31,7 @@ Assure-toi d’avoir Java installé, puis exécute la commande suivante :
 
 ```bash
 ./mvnw spring-boot:run
+```
 
 ## 📦 Produits ajoutés automatiquement
 
@@ -46,3 +47,7 @@ Les produits suivants seront ajoutés automatiquement :
 Product(id=1, name=Computer, price=5400.0, quantity=12.0)
 Product(id=2, name=Printer, price=1200.0, quantity=11.0)
 Product(id=3, name=Smart Phone, price=12000.0, quantity=33.0)
+
+
+
+
